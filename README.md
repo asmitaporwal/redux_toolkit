@@ -3,7 +3,7 @@
 
 ## About
 
-TheAdmin Table is a simple web application that allows users to add a random user and delete that user and delete all user. I have built this for learning purpose .I have used react and redux toolkit.
+The Admin Table is a simple web application that allows users to add a random user and delete that user and delete all user. I have built this for learning purpose .I have used react and redux toolkit.
 
 ## Features
 
