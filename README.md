@@ -23,7 +23,7 @@ The Admin Table is a simple web application that allows users to add a random us
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/asmitaporwal/Password_Strength_Checker.git`
+1. Clone the repository: `git clone git@github.com:asmitaporwal/redux_toolkit.git`
   
 
 ## Contributing
